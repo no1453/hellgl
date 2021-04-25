@@ -18,8 +18,8 @@ dnl along with this program; if not, write to the Free Software
 dnl Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  US
 
 AC_PREREQ([2.63])
-t://matrixgl.git.sourceforge.net/gitroot/matrixgl
-AC_INIT([matrixgl], [2.3.1], [vincent@doublecreations.com])
+t://github.com/no1453/hellgl
+AC_INIT([hellgl], [1.0.0], [no1453@gmail.com])
 AC_COPYRIGHT([Parts Copyright (C) Vincent Launchbury 2009,2010])
 AC_CONFIG_AUX_DIR([build])
 AM_INIT_AUTOMAKE([-Wall -Werror])
